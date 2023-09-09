@@ -11,7 +11,7 @@ include("./koneksi.php");?>
     <meta name="description" content="" />
     <meta name="author" content="" />
 
-    <title>LAPERBEB</title>
+    <title>LAPERBEB.</title>
 
     <?php
     include("./komponen/customfont.html");
